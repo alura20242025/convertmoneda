@@ -1,2 +1,2 @@
-Este es un proyecto simple para convertir monedas entre diferentes tipos.
+Este es un proyecto para convertir monedas entre diferentes tipos.
 
